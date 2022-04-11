@@ -673,7 +673,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -790,7 +790,6 @@ h4 {
 
 .tc-black{
     color: #000!important;
-    font-size: 20px;
 }
 
 .tc-white {
