@@ -673,7 +673,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -727,6 +727,11 @@ h2{
 
 .deuxiemeh2{
     width: 60%;
+}
+
+.troisiemeh2{
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .citation{
