@@ -785,6 +785,19 @@ h4 {
     background-attachment: fixed;
 }
 
+#bloc-6{
+    background-color: #504745;
+}
+
+.pied-page-2{
+    background-color: #504745;
+}
+
+.color-pied-page-2{
+    color: #FFF!important;
+    margin-top: 15px;
+}
+
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
