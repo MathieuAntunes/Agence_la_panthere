@@ -820,8 +820,18 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #000!important;
     color: #FFFFFF!important;
+}
+
+.btn-atomic-page-2{
+    background: #000;
+    color: #FFF!important;
+}
+
+.btn-atomic-page-2:hover{
+    background: #504745;
+    color: #FFF!important;
 }
 
 .ltc-white {
