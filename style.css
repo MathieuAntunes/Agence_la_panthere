@@ -681,6 +681,10 @@ p {
     margin: auto auto auto auto;
 }
 
+.tight-width-whitespace-page-2{
+    margin: auto auto auto auto;
+}
+
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
@@ -722,7 +726,8 @@ h2{
 }
 
 .premierh2{
-    width: 85%;
+    width: 100%;
+    margin: auto;
 }
 
 .deuxiemeh2{
