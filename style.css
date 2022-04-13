@@ -744,6 +744,10 @@ h2{
     margin: auto;
 }
 
+.lien-social{
+    text-transform: uppercase;
+}
+
 h4 {
     color: #333333!important;
 }
