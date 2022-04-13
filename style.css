@@ -731,12 +731,12 @@ h2{
 }
 
 .deuxiemeh2{
-    width: 60%;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .troisiemeh2{
-    font-size: 25px;
-    font-weight: bold;
+    width: 65%;
 }
 
 .citation{
@@ -764,8 +764,8 @@ h4 {
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-top: 0;
 }
 
 .avatar {
@@ -940,7 +940,7 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1076,6 +1076,32 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+
+    .social{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .pied-page-index{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .col-sm-4{
+        color: #000!important; 
+        margin-top: 10px;
+    }
+
+    ul{
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+
+    .troisiemeh2{
+        font-size: 22px;
+        width: 90%;
     }
 }
 
