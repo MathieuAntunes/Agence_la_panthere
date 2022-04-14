@@ -797,6 +797,11 @@ h4 {
     background-color: #504745;
 }
 
+.questionnaire{
+    display: flex;
+    flex-direction: column;
+}
+
 .pied-page-2{
     background-color: #504745;
 }
